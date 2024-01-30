@@ -1,1 +1,3 @@
-# Sample
+# Sample 
+*Italic Text*
+**Bold Text**
